@@ -6,10 +6,10 @@ _Note: * Now superseded by [source{d} Community Edition](https://github.com/src-
 
 ## List of analyses
 
-- **Kubernetes** ([org](https://github.com/kubernetes)): [jupyter notebook](k8s_analysis.ipynb) 
-- **Tensorflow** ([org](https://github.com/tensorflow)): [jupyter notebook](tensorflow.ipynb)
-- **Cloudfoundry** ([org](https://github.com/cloudfoundry)): [jupyter notebook](cloudfoundry.ipynb) / [PDF](cloudfoundry.pdf)
-- **source{d}**: ([org](https://github.com/src-d/): [jupyter notebook](srcd.ipynb)
+- [**Kubernetes**](https://github.com/kubernetes): [jupyter notebook](k8s_analysis.ipynb) 
+- [**Tensorflow**](https://github.com/tensorflow): [jupyter notebook](tensorflow.ipynb)
+- [**Cloudfoundry**](https://github.com/cloudfoundry): [jupyter notebook](cloudfoundry.ipynb) / [PDF](cloudfoundry.pdf)
+- [**source{d}**](https://github.com/src-d/): [jupyter notebook](srcd.ipynb)
 
 ## Dependencies
 

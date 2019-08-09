@@ -14,3 +14,7 @@ _Note: * Now superseded by [source{d} Community Edition](https://github.com/src-
 ## Dependencies
 
 Check each analysis file for the necessary python packages and dependencies
+
+## License
+
+[Apache License 2.0](LICENSE)
